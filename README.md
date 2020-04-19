@@ -1,1 +1,1 @@
-# Algorithms Competative Coding on Various Platforms
+# Algorithms for Coding problems on Various Platforms
